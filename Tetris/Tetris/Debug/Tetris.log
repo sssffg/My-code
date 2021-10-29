@@ -1,0 +1,8 @@
+﻿  Tetris.cpp
+c:\users\hp\source\repos\tetris\tetris\tetris.cpp(38): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\hp\source\repos\tetris\tetris\tetris.cpp(50): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\hp\source\repos\tetris\tetris\tetris.cpp(72): warning C4305: “=”: 从“double”到“float”截断
+c:\users\hp\source\repos\tetris\tetris\tetris.cpp(127): warning C4305: “=”: 从“double”到“float”截断
+c:\users\hp\source\repos\tetris\tetris\tetris.cpp(137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\hp\source\repos\tetris\tetris\tetris.cpp(145): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Tetris.vcxproj -> C:\Users\HP\source\repos\Tetris\Debug\Tetris.exe
